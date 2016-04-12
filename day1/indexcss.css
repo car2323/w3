@@ -26,10 +26,9 @@ footer
 	top: 400px;
 	left: 400px;
 }*/
-img 
+/*img 
 {
 	float: left;
-	/*float: right;*/
 }
 section
 {
@@ -38,4 +37,17 @@ section
 aside
 {
 	float: right;
+}*/
+.box-set
+{
+	overflow: auto;
+	background: #2db34a;
+}
+.box
+{
+	background: #2db34a;
+	text-align: center;
+	float: left;
+	margin: 1.85%;
+	width: 30%;
 }
