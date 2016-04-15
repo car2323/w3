@@ -1,0 +1,40 @@
+.col-sm-4{
+    background: rgba(101, 70, 120, 0.09);
+	/*position: relative;
+	left: 500px;	
+*/}
+.col-sm-2{
+    background: rgba(101, 70, 120, 0.09);
+/*	position: relative;
+	left: 500px;	*/
+}
+.logo_titlerow{
+    height: 40px;
+    width: 25px;
+	background: rgba(101, 70, 120, 0.09);
+	
+}
+.big_allbodyrow{
+    height: 40px;
+    width: 25px;
+	background: rgba(101, 70, 120, 0.09);
+	
+}
+.logo_subtitlerow{
+    height: 40px;
+    width: 25px;
+	background: rgba(101, 70, 120, 0.09);
+	
+}
+.bodyrow{
+	height: 40px;
+    width: 25px;
+	background: rgba(101, 70, 120, 0.09);
+		
+}
+.body2_textrow{
+    height: 40px;
+    width: 25px;
+	background: rgba(101, 70, 120, 0.09);
+	
+}

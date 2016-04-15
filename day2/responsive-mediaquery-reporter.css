@@ -1,0 +1,72 @@
+@media only screen and (min-width: 1024px) {
+   body:after {
+   	   content: "1024 and up";
+   }
+}
+.container {
+  background-color: purple;
+  color: white;
+  border: 1px dotted white;
+  float: left;
+  width: 100%;
+}
+
+
+/*@media screen and (min-width: 1024px) {
+  .container {
+    font-size: 50px;
+    width: 25%;
+  }
+}*/
+
+/* Huge screens */
+@media screen and (min-width: 1680px) {
+  .container {
+    font-size: 30px;
+    width: 25%;
+  }
+}
+
+/* Medium screen */
+@media screen and (max-width: 1024px) {
+  .container {
+    font-size: 15px;
+    width: 50%;
+  }
+}
+
+/* Small screen */
+@media screen and (max-width: 480px) {
+  .container {
+    font-size: 5px;
+    width: 100%;
+
+  }
+}
+/*-------------------------------------------------------------*/
+/* Huge screens */
+@media screen and (min-width: 1024px) {
+  .image_logo {
+    width: 40px;
+  }
+}
+
+/* Medium screen */
+@media screen and (max-width: 1024px) {
+  .image_logo {
+    width: 20px;
+  }
+}
+
+/* Small screen */
+@media screen and (max-width: 480px) {
+  .image_logo {
+    width: 10px;
+    
+  }
+}
+
+
+
+
+

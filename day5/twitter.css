@@ -1,0 +1,56 @@
+.container{
+	background: #654678;
+}
+.homelogo{
+	width: 15px;
+}
+.notilogo{
+	width: 15px;
+}
+.col-sm-1{
+	border-style:dashed;
+}
+.col-sm-2{
+	border-style:dashed;
+}
+.col-sm-3{
+	border-style:dashed;
+}
+.texthome{
+	float:right;
+	font-size: 12px;
+}
+.textnoti{
+	float:right;
+	font-size: 12px;
+	position: relative;
+    right: 60px;	
+}
+.imgcenter{
+	width:100%;
+}
+.messalogo{
+   width: 22px;
+}
+.birdlogo{
+   width: 22px;
+   position: relative;
+   left: 60px;	
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    left: 320px;	
+}
+li{
+	float:left;
+}
+li a{
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
